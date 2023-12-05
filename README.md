@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alperen Türkmen aka @Alperen169.
-- :information_desk_person: Please check out my Linkedin Page https://www.linkedin.com/in/alperen-türkmen-b40b2b274/
+- 💁 Please check out my Linkedin Page https://www.linkedin.com/in/alperen-türkmen-b40b2b274/.
 - 👀 I’m interested in playing video games, watching/playing football(European) and reading history.
--  I know fundamentals of CSS and HTML 
+- 💻I know fundamentals of CSS and HTML as well as the fundamentals of Cybersecurity (Can be verified from my Linkedin page).
 - 🌱 I’m currently learning C# for both Unity and ASP.NET.
 - 💞️ I’m looking to collaborate on many learning opporunities and ways to improve myself.
 - 📫 You can reach me from turkmenalperen0718@gmail.com
